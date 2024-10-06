@@ -8,3 +8,12 @@ Aimed to create a solution for bike littering across urban areas and optimize re
 ML Model Notebook: https://github.com/Retrospek/SeoulBikingRates/blob/main/model_creation.ipynb
 
 Exploratory Data Analysis Notebook: https://github.com/Retrospek/SeoulBikingRates/blob/main/EDA.ipynb
+
+Created Models:
+
+  Best Hourly Regression Model:
+
+    - XGBOOSTRegressor: Mean Absolute Error: 123.79708447739414
+  Best Daily Regression Model:
+
+    - Random Forest Regressor: Mean Absolute Error: 2222.2218720544706
