@@ -7,3 +7,4 @@ Aimed to create a solution for bike littering across urban areas and optimize re
 
 ML Model Notebook: https://github.com/Retrospek/SeoulBikingRates/blob/main/model_creation.ipynb
 
+Exploratory Data Analysis Notebook: https://github.com/Retrospek/SeoulBikingRates/blob/main/EDA.ipynb
